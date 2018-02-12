@@ -45,8 +45,16 @@ strong {
   background-color: #eeeeee;
 }
 
+.content-segment {
+  display: flex;
+}
+
 .left-container {
   width: 60%;
+}
+
+.left-container .img-content {
+  padding: 2rem 1.5rem;
 }
 
 .right-container {
