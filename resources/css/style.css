@@ -105,3 +105,30 @@ nav a {
   font-weight: bold;
   color: #333333;
 }
+
+.banner .right-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.banner .text-content {
+  padding: 1.5rem;
+}
+
+.banner h1, .banner p {
+  padding-bottom: 2rem;
+}
+
+.button {
+  text-align: center;
+  background-color: #333333;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-right: 2rem;
+}
+
+.button a {
+  color: #ffffff;
+  text-decoration: none;
+}
